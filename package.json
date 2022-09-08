@@ -1,0 +1,11 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "FAKE API",
+  "main": "index.js",
+  "repository": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
